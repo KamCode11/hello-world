@@ -1,0 +1,2 @@
+My name is kamran and this is the first file in git directory
+
